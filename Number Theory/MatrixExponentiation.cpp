@@ -1,3 +1,5 @@
+// see blog -> https://zobayer.blogspot.com/2010/11/matrix-exponentiation.html
+
 vector<vector<int>> matrixExponen(vector<vector<int>> &a, int n){
 	if(n == 0){
 		int sz = a.size();
